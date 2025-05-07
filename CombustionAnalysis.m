@@ -1,4 +1,3 @@
-```matlab
 clc
 clear
 close all
@@ -203,4 +202,3 @@ function plotPowerCurve(revBand, powerBand, measDescription)
     plot(powerCurvePlot, revBand, powerBandSmooth, LineWidth=2.0); % Plot full load power curve
     legend(powerCurvePlot, measDescription, 'FontSize', 24); % Label power curve
 end
-```
