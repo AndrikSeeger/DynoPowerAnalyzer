@@ -41,7 +41,7 @@ For each RPM step, the highest recorded power value is extracted and plotted to 
 
 ## 📈 Example Use Cases
 
-DynoPowerAnalyzer has been applied to evaluate engine performance of a small two-stroke engine under varying the following configuration parameters. See the [additional ressources](#Additional-Resources) for example plots and visualizations.
+DynoPowerAnalyzer has been applied to evaluate engine performance of a small two-stroke engine under varying the following configuration parameters. See the [additional ressources](#-Additional-Resources) for example plots and visualizations.
 
 * [**Main Jet Size**](#main-jet-variation)
 * [**Additional Fuel Enrichment by Choke**](#choke-fuel-enrichment-variation)
