@@ -41,11 +41,13 @@ For each RPM step, the highest recorded power value is extracted and plotted to 
 
 ## 📈 Example Use Cases
 
-DynoPowerAnalyzer has been applied to evaluate engine performance under varying configuration parameters. The tool supports **one-factor-at-a-time** experimentation to isolate the effect of individual variables.
+DynoPowerAnalyzer has been applied to evaluate engine performance of a small two-stroke engine under varying the following configuration parameters. See the [additional ressources](##-📚-Additional-Resources) for example plots and visualizations.
 
-* [**Main Jet Size**](#main-jet-variation) – Affects peak power; the 1.09 mm jet delivered the highest output.
-* [**Choke Activation**](#choke-fuel-enrichment-variation) – Increases power at high RPMs by enriching the fuel-air mixture.
-* [**Ignition Timing**](#ignition-timing-variation) – Advancing ignition reduces power; retarding it shifts the power peak to higher RPMs.
+* [**Main Jet Size**](#main-jet-variation)
+* [**Additional Fuel Enrichment by Choke**](#choke-fuel-enrichment-variation)
+* [**Ignition Timing**](#ignition-timing-variation)
+
+The tool supports **one-factor-at-a-time** experimentation to isolate the effect of individual variables.
 
 ---
 
