@@ -1,4 +1,4 @@
-# DynoPowerAnalyzer
+# DynoPowerAnalyzer 
 
 **DynoPowerAnalyzer** is a MATLAB-based analysis tool for processing and evaluating test bench data from combustion engines. It enables precise performance assessments by correcting systematic measurement influences, filtering noisy signals, and generating RPM-resolved full-load power curves. This tool is ideal for engine tuning, performance optimization, and parametric studies.
 
